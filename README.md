@@ -1,6 +1,6 @@
 # Hi there 👋
 <!--Introduction -->
-## I'm Hashem ! , a Java developer looking to solve **real-world problems**:earth_asia:. I'm passionate about making **open-source** more accessible, creating software:computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my profile interesting, at least your star could make someone's day:pray:. 
+## I'm Hashem ! , a Java developer looking to solve **real-world problems**:earth_asia:. I'm passionate about creating software:computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my profile interesting, at least your star could make someone's day:pray:. 
 
   ![Profile Views](https://komarev.com/ghpvc/?username=hashem98)
 
